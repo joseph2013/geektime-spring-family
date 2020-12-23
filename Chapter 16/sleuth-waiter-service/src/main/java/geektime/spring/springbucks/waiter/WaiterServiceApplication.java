@@ -25,6 +25,7 @@ import java.util.TimeZone;
 public class WaiterServiceApplication implements WebMvcConfigurer {
 
     public static void main(String[] args) {
+
         SpringApplication.run(WaiterServiceApplication.class, args);
     }
 
